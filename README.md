@@ -6,7 +6,6 @@
 <h3 align="center">Pulang sebagai Tahanan</h3>
 
 
-<h2 align="center">CONTACT WITH ME</h2>
 ## MY SOCIAL MEDIA
 [![Github](https://img.shields.io/badge/Github-Ikuti-green?style=for-the-badge&logo=github)](https://github.com/bluezec)
 [![Facebook](https://img.shields.io/badge/Facebook-Ikuti-green?style=for-the-badge&logo=facebook)](https://m.facebook.com/Bluezec11)
