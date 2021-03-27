@@ -1,6 +1,4 @@
-# Recode Ga Akan Menjadikan Kamu Programer
-# Jan Direcode Ngab :V
-
+#Snuxerr ID
 clear
 f=9
 for var in f ; do
