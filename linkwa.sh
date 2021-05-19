@@ -1,4 +1,4 @@
-#ShadowOne ID
+#DekuSec 
 clear
 f=9
 for var in f ; do
@@ -12,7 +12,7 @@ printf "%s                  ╩═╝┴┘└┘┴ ┴  ╚╩╝┴ ┴ \n" $
 printf "%s                  Made In Indonesia \n" ${f5} ${n}
 printf "%s                                     %s%s \n" ${f1} ${f1} ${n}
 printf "%s >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>%s%s \n" ${f1} ${n}
-printf "%sAuthor : ShadowOne | Wa : 0852683639xx | Fb : ShadowOne ID\n" ${f6} ${n}
+printf "%sAuthor : DekuSec | Wa : 0852683639xx | Fb : DekuSec \n" ${f6} ${n}
 printf "%s <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<%s%s \n" ${f1} ${n}
 printf "%s                                     %s%s \n" ${f1} ${f1} ${n}
 printf "%s        TOOLS UNTUK MEMBUAT LINK MENUJU CHAT WA    \n" ${f2} ${n}
